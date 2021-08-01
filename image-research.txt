@@ -1,0 +1,9 @@
+https://en.wikipedia.org/wiki/Additive_color
+https://en.wikipedia.org/wiki/Subtractive_color
+https://en.wikipedia.org/wiki/RGB_color_model
+https://en.wikipedia.org/wiki/RGBA_color_model
+https://en.wikipedia.org/wiki/CMY_color_model
+https://en.wikipedia.org/wiki/CMYK_color_model
+https://en.wikipedia.org/wiki/HSL_and_HSV
+
+search on google: color picker
