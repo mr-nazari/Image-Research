@@ -8,4 +8,4 @@
 علاوه بر این فایل pdf هم قرار داده شده است.
 <br><br>
 </div>
-<a dir="ltr" href="https://mr-nazari.github.io/Image-Research/">https://mr-nazari.github.io/Image-Research/</a>
+<a dir="ltr" href="https://mr-nazari.github.io/image-research/">https://mr-nazari.github.io/image-research/</a>
